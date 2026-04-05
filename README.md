@@ -5,7 +5,7 @@ https://dbc-ff5e1c9e-f295.cloud.databricks.com/browse/folders/1131707218103137?o
 
 https://dbc-ff5e1c9e-f295.cloud.databricks.com/editor/files/1107782230867992?o=7474644341547936
 
-# ⚡ PowerGuard AI — India Power Grid Intelligence Platform
+# ⚡ PowerGrid-Bharat — India Power Grid Intelligence Platform
 
 > A Graph Neural Network-powered system for forecasting, monitoring, and optimizing India's national power grid using real generation, renewable energy, and demand-supply data.
 
