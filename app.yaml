@@ -1,0 +1,12 @@
+# This is the configuration for your Databricks App
+name: "energy-load-forecaster"  # You can name this whatever you like
+command: 
+  - "python"
+  - "app.py"                    # This must match the file we just renamed
+resources:
+  cpu: "4"                      # Giving it a bit more punch for the AI model
+  memory: "16Gi"                # 16GB is usually safe for Foundation Models
+env:
+  - name: "LOG_LEVEL"
+    value: "INFO"
+
