@@ -1,6 +1,6 @@
 PowerGrid-Bharat
 
-Link of some data files which could not be uploaded on github due to size limit. User can visit the link and download the data file from here to runn the project.
+Link of some data files which could not be uploaded on github due to size limit. User can visit the link and download the data file from here to run the project.
 https://dbc-ff5e1c9e-f295.cloud.databricks.com/browse/folders/1131707218103137?o=7474644341547936
 
 
