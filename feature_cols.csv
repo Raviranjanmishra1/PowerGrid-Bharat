@@ -1,0 +1,11 @@
+feature
+avg_daily_gen
+std_daily_gen
+avg_renewable
+total_capacity
+num_stations
+avg_demand
+avg_supply
+surplus_mu
+renewable_share
+capacity_utilization
